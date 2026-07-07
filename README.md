@@ -102,7 +102,7 @@ A privacy-focused, local-first AI assistant for Google Workspace (Gmail, Drive, 
 
 - 📧 [adilrahman3063@gmail.com](mailto:adilrahman3063@gmail.com)
 - 📞 +91 9207114070
-- 🌐 [Portfolio](https://adil-rahman-3063.github.io/Adil-rahman-portfolio/)
+- 🌐 [Portfolio](adilrahman.cc)
 
 <div align="center">
 <sub>Open to freelance projects — Flutter apps, web development & Shopify stores.</sub>
