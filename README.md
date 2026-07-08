@@ -38,26 +38,15 @@ I build fast, modern applications and business websites that help startups and b
 
 ---
 
-## 🚀 Current Project
-
-### [CloudAgent](https://github.com/adil-rahman-3063/cloudagent)
-A privacy-focused, local-first AI assistant for Google Workspace (Gmail, Drive, Calendar) and your local dev environment. Translates natural language into secure, local tool executions with multi-model LLM fallback, session resumption, and a clean terminal UX.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white)
-
----
-
 ## 📦 Projects
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
+| [CloudAgent](https://github.com/adil-rahman-3063/cloudagent) | Privacy-focused, local-first AI assistant for Google Workspace & local dev environment with multi-model LLM fallback | Node.js, SQLite, Flutter, OpenRouter, Google Workspace CLI | ✅ Complete |
 | [ZMR Music](https://github.com/adil-rahman-3063/zmr) | Premium YouTube Music client with background audio & gesture navigation | Flutter, Riverpod, Supabase, Cloudflare Workers | ✅ Complete |
 | [LeadFlow AI](https://github.com/adil-rahman-3063) | AI CRM converting WhatsApp/Instagram text into structured trackable deals | Flutter, Supabase, FastAPI, OpenAI GPT | 🚀 Production |
 | [ViewPick](https://github.com/adil-rahman-3063) | Movie discovery PWA with Tinder-style swipe & smart recommendations | Flutter Web, Supabase, TMDB API, Firebase | 🔴 Live |
-| [TeleStore](https://github.com/adil-rahman-3063) | Personal cloud storage using Telegram channels as free unlimited backends | FastAPI, Python, Flutter, Supabase | 🔄 Beta |
+| [TeleStore](https://github.com/adil-rahman-3063) | Personal cloud storage using Telegram channels as free unlimited backends | FastAPI, Python, Flutter, Supabase | In production |
 | [C-Alert](https://github.com/adil-rahman-3063) | Incident reporting app with TFLite deepfake detection & GPS verification | Flutter, TensorFlow Lite, Supabase, OpenStreetMap | 🎓 B.Tech Main |
 | [Poshan Abhiyaan](https://github.com/adil-rahman-3063) | Nutrition tracker for health workers via Google Sheets/Drive | Flutter, Google Sheets API, Google Drive API | 🎓 B.Tech Mini |
 
@@ -81,20 +70,6 @@ A privacy-focused, local-first AI assistant for Google Workspace (Gmail, Drive, 
 ## 🏙 My GitHub Skyline
 
 [![My GitCity Skyline](https://gitcity.natrajx.in/api/svg?u=adil-rahman-3063&theme=matrix)](https://gitcity.natrajx.in/adil-rahman-3063)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Adil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adil-rahman-3063&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adil-rahman-3063&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=adil-rahman-3063&theme=default&hide_border=true)
-
-</div>
 
 ---
 
