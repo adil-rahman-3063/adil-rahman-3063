@@ -10,7 +10,7 @@
 
 I build fast, modern applications and business websites that help startups and businesses launch quickly.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://adil-rahman-3063.github.io/Adil-rahman-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://adilrahman.cc)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adilrahman3063@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/adil-rahman-3063)
 
@@ -42,6 +42,7 @@ I build fast, modern applications and business websites that help startups and b
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
+| [Sirr (سِرّ)](https://github.com/adil-rahman-3063/Sirr) | Cross-platform Islamic prayer companion with dynamic daylight theming & precision Qibla compass | Flutter, Dart, REST APIs, Notifications, ServiceWorker | 🚀 Production |
 | [CloudAgent](https://github.com/adil-rahman-3063/cloudagent) | Privacy-focused, local-first AI assistant for Google Workspace & local dev environment with multi-model LLM fallback | Node.js, SQLite, Flutter, OpenRouter, Google Workspace CLI | 🔄 Beta |
 | [ZMR Music](https://github.com/adil-rahman-3063/zmr) | Premium YouTube Music client with background audio & gesture navigation | Flutter, Riverpod, Supabase, Cloudflare Workers | ✅ Complete |
 | [LeadFlow AI](https://github.com/adil-rahman-3063) | AI CRM converting WhatsApp/Instagram text into structured trackable deals | Flutter, Supabase, FastAPI, OpenAI GPT | 🚀 Production |
