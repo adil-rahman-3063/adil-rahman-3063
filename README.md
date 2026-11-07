@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/adil-rahman-3063/adil-rahman-3063/main/header.png" alt="Adil Rahman - Freelance Full-Stack, Flutter & Shopify Developer" width="100%" />
+
+<br/>
+<br/>
+
 # Hey, I'm Adil Rahman 👋
 
 **Freelance Full-Stack, Flutter & Shopify Developer**
